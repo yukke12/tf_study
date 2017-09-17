@@ -2,7 +2,9 @@
 
 ## Prepare Envirounment
 activate
- `source /usr/local/git_local/virtualenv/dqn_test/bin/activate`
+```
+source /usr/local/git_local/virtualenv/dqn_test/bin/activate
+```
 
 install
 ```
