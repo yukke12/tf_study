@@ -13,4 +13,10 @@ install
 ```
 
 source change
+dqn_agent.py's 66 rows:
+```
+before
 
+after
+ tf.initialize_all_variables
+```
