@@ -20,3 +20,6 @@ before
 after
  tf.initialize_all_variables
 ```
+
+## reference
+http://blog.algolab.jp/post/2016/08/01/tf-dqn-simple-1/
