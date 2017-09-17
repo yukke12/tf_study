@@ -1,7 +1,6 @@
 # specific file ignore
-/tf-dqn-simple/model
 
 # specific dir ignore
-
+/tf-dqn-simple/model/
 
 #
